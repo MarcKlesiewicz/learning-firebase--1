@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "883648167170",
+    "project_id": "learning-flutterfire-5e431",
+    "storage_bucket": "learning-flutterfire-5e431.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883648167170:android:0b5547c16ae915e55a561b",
+        "android_client_info": {
+          "package_name": "com.example.learning_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883648167170-a9jtpq9uaf69m2kmt3pmh93iufvemavf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_Ieqi4jMw1iTjlH8qxw8MkjZd-QgoipI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883648167170-a9jtpq9uaf69m2kmt3pmh93iufvemavf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "883648167170-fcj6kbncena9ik2k19hicl8fpepeddsl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.learningFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

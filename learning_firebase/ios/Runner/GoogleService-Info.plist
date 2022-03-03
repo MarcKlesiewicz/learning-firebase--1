@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>883648167170-fcj6kbncena9ik2k19hicl8fpepeddsl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.883648167170-fcj6kbncena9ik2k19hicl8fpepeddsl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAPG0u9T14oi9rC3wLkzB5628BOT6hdXHo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>883648167170</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.learningFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>learning-flutterfire-5e431</string>
+	<key>STORAGE_BUCKET</key>
+	<string>learning-flutterfire-5e431.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:883648167170:ios:1385fa02826ddcb45a561b</string>
+</dict>
+</plist>

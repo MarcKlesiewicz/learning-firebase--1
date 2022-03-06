@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:883648167170:android:0b5547c16ae915e55a561b",
+        "mobilesdk_app_id": "1:883648167170:android:aa448fed6e82e7175a561b",
         "android_client_info": {
           "package_name": "com.example.learning_firebase"
         }
